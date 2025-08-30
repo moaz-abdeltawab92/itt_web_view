@@ -160,14 +160,14 @@ class PageOne extends StatelessWidget {
                         textAlign: TextAlign.left,
                       ),
                       const SizedBox(height: 4),
-                      Text(
-                        appSize,
-                        style: const TextStyle(
-                          fontSize: 14,
-                          color: Colors.grey,
-                        ),
-                        textAlign: TextAlign.left,
-                      ),
+                      // Text(
+                      //   appSize,
+                      //   style: const TextStyle(
+                      //     fontSize: 14,
+                      //     color: Colors.grey,
+                      //   ),
+                      //   textAlign: TextAlign.left,
+                      // ),
                     ],
                   ),
                 ],

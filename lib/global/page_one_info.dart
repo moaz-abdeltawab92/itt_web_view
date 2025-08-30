@@ -3,10 +3,11 @@
 import 'package:flutter/material.dart';
 
 const String appName = "ITI Learning Platform ";
-const String appSize = "27 MB";
+//const String appSize = "27 MB";
 const String appLogo = "assets/images/ITIfayoumlogo.png";
 
-const String appURL = ""; //change it with new apk
+const String appURL =
+    "https://drive.google.com/uc?export=download&id=1qgLdGOSfLs8aOPqegyetvvpxF4aXiyAs";
 
 const String? IOS_appURL = null; // This value can be left
 const String appDescription =
