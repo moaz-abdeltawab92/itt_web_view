@@ -1,20 +1,18 @@
-// ...existing code...
-// ...existing code...
 import 'package:flutter/material.dart';
 
 const String appName = "ITI Learning Platform ";
-//const String appSize = "27 MB";
+
 const String appLogo = "assets/images/ITIfayoumlogo.png";
 
 const String appURL =
-    "https://drive.google.com/uc?export=download&id=1qgLdGOSfLs8aOPqegyetvvpxF4aXiyAs";
+    "https://drive.google.com/uc?export=download&id=10e8zl8sMX9PxXjqWM-ShBht1GPtwQk5A";
 
 const String? IOS_appURL = null; // This value can be left
 const String appDescription =
     "ITI Learning Platform هو تطبيق تعليمي معمول بـ Flutter بيسهّل على الطلاب رحلة التعلم من خلال مسارات تعليمية منظمة ومساعد ذكي بالـ AI، وكمان بيسهّل على الإداريين والسوبر أدمن إدارة الكورسات والمحتوى بشكل مرن وبسيط.";
 
 const List<String> userFeatures = [
-  "- تصفح الموارد والدروس في كل تراك متاح.",
+  "- تصفح الموارد في كل تراك متاح.",
   "- معرفة التراكات المتاحة والانضمام لأي تراك يعجبك.",
   "- مشاهدة الأسئلة الشائعة وإجابات موثوقة من الإدارة.",
   "- إرسال أي سؤال يخص التراك أو المجال، والإدمن يرد عليك.",

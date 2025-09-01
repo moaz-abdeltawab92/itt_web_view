@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:iti_web/global/page_one_info.dart';
-// import 'package:iti_web/url_lanucher.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class PageOne extends StatelessWidget {
@@ -150,6 +149,7 @@ class PageOne extends StatelessWidget {
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
+                      const SizedBox(height: 17),
                       Text(
                         appName,
                         style: const TextStyle(
