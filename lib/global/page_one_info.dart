@@ -5,7 +5,7 @@ const String appName = "ITI Learning Platform ";
 const String appLogo = "assets/images/ITIfayoumlogo.png";
 
 const String appURL =
-    "https://drive.google.com/uc?export=download&id=10e8zl8sMX9PxXjqWM-ShBht1GPtwQk5A";
+    "https://drive.google.com/uc?export=download&id=1RahnAoei3m4Of8mj4H8Vw4Jqa6ql4Gcu";
 
 const String? IOS_appURL = null; // This value can be left
 const String appDescription =
